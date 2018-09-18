@@ -10,4 +10,5 @@ testing repository
 - [] drop down menu for easy navigation
 - [] able to email me through website
 - [] able to message through website
-- []log in will actually work including hiding password
+- [] log in will actually work including hiding password
+- [] able to take picture of face
