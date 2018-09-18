@@ -3,7 +3,7 @@ testing repository
 
 ## all ideas go into this repository
 
-##to do
+## to do
 - [] background must invert different colors
 - [] buttons must send to different part of website
 - [] try to get camera to work for website
